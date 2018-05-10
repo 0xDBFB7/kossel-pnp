@@ -1,0 +1,15 @@
+2018-05-09 16:46:40 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 16:46:40 Scripting TRACE: Scripting.on Startup
+2018-05-09 16:46:40 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 16:46:40 CameraView DEBUG: No reticle preference found.
+2018-05-09 16:46:40 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 16:46:40 CameraView DEBUG: No reticle preference found.
+2018-05-09 16:47:20 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 16:47:21 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 16:47:22 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 16:47:22 GcodeDriver DEBUG: sendCommand(G21 ; Set millimeters mode, 5000)...
+2018-05-09 16:47:22 GcodeDriver TRACE: [/dev/ttyACM1] >> G21 ; Set millimeters mode
+2018-05-09 16:47:22 MainFrame INFO: Shutting down...
+2018-05-09 16:47:22 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 16:47:22 GcodeDriver DEBUG: sendCommand(M42 P9 S0 ; turn off topcamera leds, 5000)...
+2018-05-09 16:47:22 GcodeDriver TRACE: [/dev/ttyACM1] >> M42 P9 S0 ; turn off topcamera leds

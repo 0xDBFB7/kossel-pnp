@@ -1,0 +1,52 @@
+2018-05-09 17:21:43 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 17:21:43 Scripting TRACE: Scripting.on Startup
+2018-05-09 17:21:43 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:21:43 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:21:43 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:21:43 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:21:45 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(G90 {FeedRate:%.0f}, 5000)...
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] >> G90 {FeedRate:%.0f}
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90 {FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(M82 {FeedRate:%.0f}, 5000)...
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] >> M82 {FeedRate:%.0f}
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82 {FeedRate:%.0f}, 5000) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z10 E0 {FeedRate:%.0f}, 5000)...
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z10 E0 {FeedRate:%.0f}
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z10 E0 {FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:21:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:47 ReferenceHead DEBUG: H1.home()
+2018-05-09 17:21:47 GcodeDriver DEBUG: sendCommand(G28 {FeedRate:%.0f}, -1)...
+2018-05-09 17:21:47 GcodeDriver TRACE: [/dev/ttyACM1] >> G28 {FeedRate:%.0f}
+2018-05-09 17:21:51 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:51 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28 {FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok, ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:21:51 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:21:51 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10 {FeedRate:%.0f}, -1)...
+2018-05-09 17:21:51 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:51 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10 {FeedRate:%.0f}
+2018-05-09 17:21:51 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10 {FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:21:51 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:53 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:21:53 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:24:10 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 17:24:10 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 17:24:10 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 17:24:10 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:24:10 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:24:28 MainFrame INFO: Shutting down...
+2018-05-09 17:24:28 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 17:24:28 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 17:24:28 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 17:24:28 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:24:28 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok]
+2018-05-09 17:24:29 MainFrame INFO: Shutdown complete, exiting.

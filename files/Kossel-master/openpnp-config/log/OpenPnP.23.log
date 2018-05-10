@@ -1,0 +1,14 @@
+2018-05-09 15:58:41 SystemLogger ERROR: Exception in thread "Thread-19" java.lang.NullPointerException
+2018-05-09 15:58:41 SystemLogger ERROR: 	at org.openpnp.machine.reference.driver.GcodeDriver.run(GcodeDriver.java:871)
+2018-05-09 15:58:41 SystemLogger ERROR: 	at java.lang.Thread.run(Thread.java:748)
+2018-05-09 15:59:13 SystemLogger ERROR: Exception in thread "Thread-21" java.lang.NullPointerException
+2018-05-09 15:59:13 SystemLogger ERROR: 	at org.openpnp.machine.reference.driver.GcodeDriver.run(GcodeDriver.java:871)
+2018-05-09 15:59:13 SystemLogger ERROR: 	at java.lang.Thread.run(Thread.java:748)
+2018-05-09 15:59:35 SystemLogger ERROR: Exception in thread "Thread-23" java.lang.NullPointerException
+2018-05-09 15:59:35 SystemLogger ERROR: 	at org.openpnp.machine.reference.driver.GcodeDriver.run(GcodeDriver.java:871)
+2018-05-09 15:59:35 SystemLogger ERROR: 	at java.lang.Thread.run(Thread.java:748)
+2018-05-09 16:01:00 SystemLogger ERROR: Exception in thread "Thread-25" java.lang.NullPointerException
+2018-05-09 16:01:00 SystemLogger ERROR: 	at org.openpnp.machine.reference.driver.GcodeDriver.run(GcodeDriver.java:871)
+2018-05-09 16:01:00 SystemLogger ERROR: 	at java.lang.Thread.run(Thread.java:748)
+2018-05-09 16:07:04 MainFrame INFO: Shutting down...
+2018-05-09 16:07:14 MainFrame INFO: Shutdown complete, exiting.

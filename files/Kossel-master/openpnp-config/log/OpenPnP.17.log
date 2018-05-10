@@ -1,0 +1,10 @@
+2018-05-09 16:42:22 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 16:42:22 Scripting TRACE: Scripting.on Startup
+2018-05-09 16:42:22 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 16:42:22 CameraView DEBUG: No reticle preference found.
+2018-05-09 16:42:22 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 16:42:22 CameraView DEBUG: No reticle preference found.
+2018-05-09 16:42:59 MessageBoxes DEBUG: Error: java.lang.Exception: Machine has not been started.
+2018-05-09 16:43:03 MainFrame INFO: Shutting down...
+2018-05-09 16:43:03 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 16:43:03 MainFrame INFO: Shutdown complete, exiting.

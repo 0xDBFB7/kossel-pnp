@@ -1,0 +1,1357 @@
+2018-05-09 19:53:02 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 19:53:02 Scripting TRACE: Scripting.on Startup
+2018-05-09 19:53:02 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 19:53:02 CameraView DEBUG: No reticle preference found.
+2018-05-09 19:53:19 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:19 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:19 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:20 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:21 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:25 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:25 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(G90 F{FeedRate:%.0f}, 5000)...
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] >> G90 F{FeedRate:%.0f}
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90 F{FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82, 5000) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000)...
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:26 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000) => [ok, ok]
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:53:26 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:32 ReferenceNozzle DEBUG: N1.moveTo((26.059000, -43.504000, 0.010000, 0.000000 mm), 0.68)
+2018-05-09 19:53:32 GcodeDriver DEBUG: sendCommand(G1   Z0.0100  F1700, 5000)...
+2018-05-09 19:53:32 GcodeDriver TRACE: [/dev/ttyACM1] >> G1   Z0.0100  F1700
+2018-05-09 19:53:32 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:32 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1   Z0.0100  F1700, 5000) => [echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 19:53:32 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:53:32 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:33 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:34 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:37 MessageBoxes DEBUG: Error: java.lang.Exception: Timeout waiting for response to M400
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:39 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 19:53:39 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 19:53:39 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 19:53:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:40 ReferenceHead DEBUG: H1.home()
+2018-05-09 19:53:40 GcodeDriver DEBUG: sendCommand(G28 F{FeedRate:%.0f}, -1)...
+2018-05-09 19:53:40 GcodeDriver TRACE: [/dev/ttyACM1] >> G28 F{FeedRate:%.0f}
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:41 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:42 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:43 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok]
+2018-05-09 19:53:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28 F{FeedRate:%.0f}, -1) => [ok]
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:44 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1)...
+2018-05-09 19:53:44 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10 F{FeedRate:%.0f}
+2018-05-09 19:53:44 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:45 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:46 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 19:53:46 GcodeDriver DEBUG: sendCommand(G90 F{FeedRate:%.0f}, 5000)...
+2018-05-09 19:53:46 GcodeDriver TRACE: [/dev/ttyACM1] >> G90 F{FeedRate:%.0f}
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:46 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:47 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:47 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:47 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1) => [ok, ok]
+2018-05-09 19:53:47 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:53:47 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:53:47 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90 F{FeedRate:%.0f}, 5000) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 19:53:47 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 19:53:47 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:47 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:48 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:49 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:52 MessageBoxes DEBUG: Enable Failure: Timeout waiting for response to M82
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:54 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:55 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:56 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:57 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:58 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:53:59 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:00 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:01 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:02 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:03 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:04 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:54:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:04 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:54:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:04 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:05 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 19:54:05 GcodeDriver DEBUG: sendCommand(G90 F{FeedRate:%.0f}, 5000)...
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] >> G90 F{FeedRate:%.0f}
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:05 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90 F{FeedRate:%.0f}, 5000) => [echo:Unknown command: "%.0f}", ok, ok, echo:Unknown command: "%.0f}", ok, ok, ok]
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:05 SystemLogger ERROR: LOGGER ERROR: Failed to write log entry (java.util.ConcurrentModificationException)
+2018-05-09 19:54:05 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:05 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82, 5000) => [echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 19:54:05 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000)...
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:05 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:54:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:05 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:06 ReferenceHead DEBUG: H1.home()
+2018-05-09 19:54:06 GcodeDriver DEBUG: sendCommand(G28 F{FeedRate:%.0f}, -1)...
+2018-05-09 19:54:06 GcodeDriver TRACE: [/dev/ttyACM1] >> G28 F{FeedRate:%.0f}
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:06 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:07 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:08 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:09 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:09 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:54:09 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28 F{FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 19:54:09 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:09 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1)...
+2018-05-09 19:54:09 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10 F{FeedRate:%.0f}
+2018-05-09 19:54:09 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:09 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:09 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:10 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:11 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:12 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:13 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:14 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:15 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:16 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:17 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:18 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:19 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:20 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:21 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:25 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 19:54:25 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:26 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:27 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:30 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:31 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:32 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:33 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:33 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:33 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:33 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:37 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:38 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:39 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:40 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:54:41 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:55:44 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:55:44 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(G1   Z10.0000  F1700, 5000)...
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] >> G1   Z10.0000  F1700
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1   Z10.0000  F1700, 5000) => [echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:44 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:55:44 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:55:44 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(G1 X-26.0590 Y43.5040   F1700, 5000)...
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X-26.0590 Y43.5040   F1700
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X-26.0590 Y43.5040   F1700, 5000) => [ok]
+2018-05-09 19:55:44 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:44 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:46 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:55:46 GcodeDriver DEBUG: sendCommand(G1   Z0.0000  F1700, 5000)...
+2018-05-09 19:55:46 GcodeDriver TRACE: [/dev/ttyACM1] >> G1   Z0.0000  F1700
+2018-05-09 19:55:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1   Z0.0000  F1700, 5000) => [ok]
+2018-05-09 19:55:46 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:46 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:48 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:55:48 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(G1   Z10.0000  F1700, 5000)...
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] >> G1   Z10.0000  F1700
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1   Z10.0000  F1700, 5000) => [ok]
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:48 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:55:48 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:55:48 ReferenceCamera DEBUG: moveTo((0.000000, 0.000000, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(G1 X0.0000 Y0.0000   F1700, 5000)...
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X0.0000 Y0.0000   F1700
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X0.0000 Y0.0000   F1700, 5000) => [ok]
+2018-05-09 19:55:48 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:48 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:50 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:50 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:50 ReferenceCamera DEBUG: moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:55:58 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:55:58 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:55:58 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:55:58 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:55:58 ReferenceCamera DEBUG: moveTo((-1.726467, -3.231360, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:55:58 GcodeDriver DEBUG: sendCommand(G1 X-1.7265 Y-3.2314   F1700, 5000)...
+2018-05-09 19:55:58 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X-1.7265 Y-3.2314   F1700
+2018-05-09 19:55:58 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:58 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X-1.7265 Y-3.2314   F1700, 5000) => [ok]
+2018-05-09 19:55:58 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:58 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:58 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:58 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:58 ReferenceCamera DEBUG: moveTo((-1.726467, -3.231360, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:55:59 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceCamera DEBUG: moveTo((6.840719, 0.130560, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:55:59 GcodeDriver DEBUG: sendCommand(G1 X6.8407 Y0.1306   F1700, 5000)...
+2018-05-09 19:55:59 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X6.8407 Y0.1306   F1700
+2018-05-09 19:55:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X6.8407 Y0.1306   F1700, 5000) => [ok]
+2018-05-09 19:55:59 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:55:59 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:55:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:55:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:55:59 ReferenceCamera DEBUG: moveTo((6.840719, 0.130560, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:55:59 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:55:59 ReferenceCamera DEBUG: moveTo((16.320000, -6.691200, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:55:59 GcodeDriver DEBUG: sendCommand(G1 X16.3200 Y-6.6912   F1700, 5000)...
+2018-05-09 19:55:59 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X16.3200 Y-6.6912   F1700
+2018-05-09 19:56:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X16.3200 Y-6.6912   F1700, 5000) => [ok]
+2018-05-09 19:56:00 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:00 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:00 ReferenceCamera DEBUG: moveTo((16.320000, -6.691200, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:00 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:56:00 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:56:00 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:56:00 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:56:00 ReferenceCamera DEBUG: moveTo((5.537725, -17.038080, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:56:00 GcodeDriver DEBUG: sendCommand(G1 X5.5377 Y-17.0381   F1700, 5000)...
+2018-05-09 19:56:00 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X5.5377 Y-17.0381   F1700
+2018-05-09 19:56:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X5.5377 Y-17.0381   F1700, 5000) => [ok]
+2018-05-09 19:56:00 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:00 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:01 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:01 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:01 ReferenceCamera DEBUG: moveTo((5.537725, -17.038080, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:01 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:56:01 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:56:01 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:56:01 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:56:01 ReferenceCamera DEBUG: moveTo((4.397605, -13.219200, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:56:01 GcodeDriver DEBUG: sendCommand(G1 X4.3976 Y-13.2192   F1700, 5000)...
+2018-05-09 19:56:01 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X4.3976 Y-13.2192   F1700
+2018-05-09 19:56:01 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:01 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X4.3976 Y-13.2192   F1700, 5000) => [ok]
+2018-05-09 19:56:01 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:01 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:01 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:01 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:01 ReferenceCamera DEBUG: moveTo((4.397605, -13.219200, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:02 ReferenceHead DEBUG: H1.moveToSafeZ(0.68)
+2018-05-09 19:56:02 ReferenceNozzle DEBUG: N1.moveToSafeZ(0.68)
+2018-05-09 19:56:02 ReferenceCamera DEBUG: Top.moveToSafeZ(0.68)
+2018-05-09 19:56:02 ReferenceActuator DEBUG: A1.moveToSafeZ(0.68)
+2018-05-09 19:56:02 ReferenceCamera DEBUG: moveTo((-4.821078, -16.972800, NaN, 0.000000 mm), 0.68)
+2018-05-09 19:56:02 GcodeDriver DEBUG: sendCommand(G1 X-4.8211 Y-16.9728   F1700, 5000)...
+2018-05-09 19:56:02 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X-4.8211 Y-16.9728   F1700
+2018-05-09 19:56:02 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:02 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X-4.8211 Y-16.9728   F1700, 5000) => [ok]
+2018-05-09 19:56:02 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:02 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:02 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:02 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:02 ReferenceCamera DEBUG: moveTo((-4.821078, -16.972800, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:18 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:18 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:18 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:40 ReferenceNozzle DEBUG: N1.moveTo((21.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:40 GcodeDriver DEBUG: sendCommand(G1 X-4.8111 Y-16.9728   F1700, 5000)...
+2018-05-09 19:56:40 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X-4.8111 Y-16.9728   F1700
+2018-05-09 19:56:40 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:40 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X-4.8111 Y-16.9728   F1700, 5000) => [ok]
+2018-05-09 19:56:40 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:40 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:40 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:40 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:42 ReferenceNozzle DEBUG: N1.moveTo((31.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(G1 X5.1889    F1700, 5000)...
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X5.1889    F1700
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X5.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:42 ReferenceNozzle DEBUG: N1.moveTo((41.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(G1 X15.1889    F1700, 5000)...
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X15.1889    F1700
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X15.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:42 ReferenceNozzle DEBUG: N1.moveTo((51.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(G1 X25.1889    F1700, 5000)...
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X25.1889    F1700
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X25.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:42 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:42 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:43 ReferenceNozzle DEBUG: N1.moveTo((61.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(G1 X35.1889    F1700, 5000)...
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X35.1889    F1700
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X35.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:43 ReferenceNozzle DEBUG: N1.moveTo((71.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(G1 X45.1889    F1700, 5000)...
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X45.1889    F1700
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X45.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:43 ReferenceNozzle DEBUG: N1.moveTo((81.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(G1 X55.1889    F1700, 5000)...
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X55.1889    F1700
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X55.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:43 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:43 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:44 ReferenceNozzle DEBUG: N1.moveTo((91.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:44 GcodeDriver DEBUG: sendCommand(G1 X65.1889    F1700, 5000)...
+2018-05-09 19:56:44 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X65.1889    F1700
+2018-05-09 19:56:44 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:44 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X65.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:44 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:44 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:45 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:45 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:45 ReferenceNozzle DEBUG: N1.moveTo((101.247922, -60.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:45 GcodeDriver DEBUG: sendCommand(G1 X75.1889    F1700, 5000)...
+2018-05-09 19:56:45 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X75.1889    F1700
+2018-05-09 19:56:45 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:45 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X75.1889    F1700, 5000) => [ok]
+2018-05-09 19:56:45 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:45 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:46 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:46 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:47 ReferenceNozzle DEBUG: N1.moveTo((101.247922, -70.476800, 10.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:47 GcodeDriver DEBUG: sendCommand(G1  Y-26.9728   F1700, 5000)...
+2018-05-09 19:56:47 GcodeDriver TRACE: [/dev/ttyACM1] >> G1  Y-26.9728   F1700
+2018-05-09 19:56:47 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:47 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1  Y-26.9728   F1700, 5000) => [ok]
+2018-05-09 19:56:47 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:47 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:47 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:47 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:49 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:50 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:51 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:52 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:52 ReferenceCamera DEBUG: moveTo((68.209300, -28.765269, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:56:52 GcodeDriver DEBUG: sendCommand(G1 X68.2093 Y-28.7653   F1700, 5000)...
+2018-05-09 19:56:52 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X68.2093 Y-28.7653   F1700
+2018-05-09 19:56:52 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:52 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X68.2093 Y-28.7653   F1700, 5000) => [ok]
+2018-05-09 19:56:52 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:56:52 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:53 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:56:53 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:56:53 MessageBoxes DEBUG: Auto Setup Failure: java.lang.Exception: Feeder null: No tape holes found.
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:56:53 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:22 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:23 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:24 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:25 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 ReferenceCamera DEBUG: moveTo((61.640243, -26.460666, 0.000000, 0.000000 mm), 0.68)
+2018-05-09 19:59:28 GcodeDriver DEBUG: sendCommand(G1 X61.6402 Y-26.4607   F1700, 5000)...
+2018-05-09 19:59:28 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X61.6402 Y-26.4607   F1700
+2018-05-09 19:59:28 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:59:28 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X61.6402 Y-26.4607   F1700, 5000) => [ok]
+2018-05-09 19:59:28 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 19:59:28 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:28 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:29 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:29 MessageBoxes DEBUG: Auto Setup Failure: java.lang.Exception: Feeder null: No tape holes found.
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:35 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeSettle
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.BeforeCapture
+2018-05-09 19:59:36 Scripting TRACE: Scripting.on Camera.AfterCapture
+2018-05-09 20:11:51 MainFrame INFO: Shutting down...
+2018-05-09 20:11:52 MainFrame INFO: Shutdown complete, exiting.

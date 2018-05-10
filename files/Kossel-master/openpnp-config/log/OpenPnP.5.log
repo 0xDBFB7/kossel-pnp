@@ -1,0 +1,42 @@
+2018-05-09 17:20:16 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 17:20:16 Scripting TRACE: Scripting.on Startup
+2018-05-09 17:20:16 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:20:16 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:20:17 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:20:17 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:20:19 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 17:20:20 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(G90, 5000)...
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] >> G90
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90, 5000) => [ok]
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82, 5000) => [ok]
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z10 E0, 5000)...
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z10 E0
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z10 E0, 5000) => [ok]
+2018-05-09 17:20:21 ReferenceHead DEBUG: H1.home()
+2018-05-09 17:20:21 GcodeDriver DEBUG: sendCommand(G28, -1)...
+2018-05-09 17:20:21 GcodeDriver TRACE: [/dev/ttyACM1] >> G28
+2018-05-09 17:20:24 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:20:24 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28, -1) => [ok]
+2018-05-09 17:20:24 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10, -1)...
+2018-05-09 17:20:24 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10
+2018-05-09 17:20:25 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:20:25 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10, -1) => [ok]
+2018-05-09 17:20:25 GcodeDriver DEBUG: sendCommand(T0 S1, -1)...
+2018-05-09 17:20:25 GcodeDriver TRACE: [/dev/ttyACM1] >> T0 S1
+2018-05-09 17:20:26 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Active Extruder: 0
+2018-05-09 17:20:26 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:20:26 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 T0 S1, -1) => [echo:Active Extruder: 0, ok]
+2018-05-09 17:21:35 MainFrame INFO: Shutting down...
+2018-05-09 17:21:35 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 17:21:35 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 17:21:35 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 17:21:35 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:21:35 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok]
+2018-05-09 17:21:36 MainFrame INFO: Shutdown complete, exiting.

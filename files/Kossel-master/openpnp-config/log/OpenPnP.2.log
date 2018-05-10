@@ -1,0 +1,59 @@
+2018-05-09 17:25:55 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 17:25:55 Scripting TRACE: Scripting.on Startup
+2018-05-09 17:25:55 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:25:55 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:25:56 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:25:56 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:25:58 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 17:25:59 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(G90 F{FeedRate:%.0f}, 5000)...
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] >> G90 F{FeedRate:%.0f}
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90 F{FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 17:26:00 SystemLogger ERROR: LOGGER ERROR: Failed to write log entry (java.util.ConcurrentModificationException)
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82, 5000) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000)...
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:00 ReferenceHead DEBUG: H1.home()
+2018-05-09 17:26:00 GcodeDriver DEBUG: sendCommand(G28 F{FeedRate:%.0f}, -1)...
+2018-05-09 17:26:00 GcodeDriver TRACE: [/dev/ttyACM1] >> G28 F{FeedRate:%.0f}
+2018-05-09 17:26:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:04 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28 F{FeedRate:%.0f}, -1) => [ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:26:04 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1)...
+2018-05-09 17:26:04 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10 F{FeedRate:%.0f}
+2018-05-09 17:26:04 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:26:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:04 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:26:04 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:13 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:26:13 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:17 ReferenceHead DEBUG: H1.home()
+2018-05-09 17:26:17 GcodeDriver DEBUG: sendCommand(G28 F{FeedRate:%.0f}, -1)...
+2018-05-09 17:26:17 GcodeDriver TRACE: [/dev/ttyACM1] >> G28 F{FeedRate:%.0f}
+2018-05-09 17:26:20 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:20 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28 F{FeedRate:%.0f}, -1) => [ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:26:20 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:26:20 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1)...
+2018-05-09 17:26:20 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:20 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10 F{FeedRate:%.0f}
+2018-05-09 17:26:20 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:26:20 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:29 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:26:29 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:41 MainFrame INFO: Shutting down...
+2018-05-09 17:26:41 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 17:26:41 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 17:26:41 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 17:26:41 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:26:41 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:26:42 MainFrame INFO: Shutdown complete, exiting.

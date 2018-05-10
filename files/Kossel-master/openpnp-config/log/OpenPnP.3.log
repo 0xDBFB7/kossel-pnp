@@ -1,0 +1,45 @@
+2018-05-09 17:25:10 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 17:25:10 Scripting TRACE: Scripting.on Startup
+2018-05-09 17:25:10 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:25:10 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:25:11 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:25:11 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:25:17 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(G90 F{FeedRate:%.0f}, 5000)...
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] >> G90 F{FeedRate:%.0f}
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90 F{FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82, 5000) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000)...
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:18 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z10 E0 F{FeedRate:%.0f}, 5000) => [ok]
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:25:18 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:19 ReferenceHead DEBUG: H1.home()
+2018-05-09 17:25:19 GcodeDriver DEBUG: sendCommand(G28 F{FeedRate:%.0f}, -1)...
+2018-05-09 17:25:19 GcodeDriver TRACE: [/dev/ttyACM1] >> G28 F{FeedRate:%.0f}
+2018-05-09 17:25:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28 F{FeedRate:%.0f}, -1) => [ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:25:21 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:25:21 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1)...
+2018-05-09 17:25:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:21 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z10 F{FeedRate:%.0f}
+2018-05-09 17:25:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z10 F{FeedRate:%.0f}, -1) => [echo:Unknown command: "%.0f}", ok]
+2018-05-09 17:25:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:30 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Unknown command: "%.0f}"
+2018-05-09 17:25:30 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:47 MainFrame INFO: Shutting down...
+2018-05-09 17:25:47 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 17:25:47 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 17:25:47 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 17:25:47 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:25:47 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok, echo:Unknown command: "%.0f}", ok, ok]
+2018-05-09 17:25:47 MainFrame INFO: Shutdown complete, exiting.

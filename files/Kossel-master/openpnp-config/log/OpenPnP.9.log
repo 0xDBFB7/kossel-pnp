@@ -1,0 +1,187 @@
+2018-05-09 17:12:17 Main DEBUG: Bienvenue, Willkommen, Hello, Namaskar, Welkom to OpenPnP version 2018-01-04_04-11-19.9373911.
+2018-05-09 17:12:17 Scripting TRACE: Scripting.on Startup
+2018-05-09 17:12:17 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:12:17 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:12:17 CameraView DEBUG: Failed to load camera specific reticle, checking default.
+2018-05-09 17:12:17 CameraView DEBUG: No reticle preference found.
+2018-05-09 17:12:20 ReferenceMachine DEBUG: setEnabled(true)
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(null, 250)...
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 null, 250) => []
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(G90, 5000)...
+2018-05-09 17:12:21 GcodeDriver TRACE: [/dev/ttyACM1] >> G90
+2018-05-09 17:12:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G90, 5000) => [ok]
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(M82, 5000)...
+2018-05-09 17:12:21 GcodeDriver TRACE: [/dev/ttyACM1] >> M82
+2018-05-09 17:12:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M82, 5000) => [ok]
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(G92 X0 Y0 Z0 E0, 5000)...
+2018-05-09 17:12:21 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 X0 Y0 Z0 E0
+2018-05-09 17:12:21 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:12:21 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 X0 Y0 Z0 E0, 5000) => [ok]
+2018-05-09 17:13:08 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:13:08 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:13:08 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:13:08 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:13:08 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:08 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:09 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:09 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:09 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:13:09 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:09 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:10 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:13:10 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:13:10 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:13:10 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:13:10 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:10 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:11 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:13:11 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:13:11 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:13:11 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:13:11 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:13:11 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:14:48 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:14:48 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:14:48 ReferenceHead DEBUG: H1.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceNozzle DEBUG: N1.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceCamera DEBUG: Top.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceActuator DEBUG: A1.moveToSafeZ(1.0)
+2018-05-09 17:14:48 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:14:48 ReferenceNozzle DEBUG: N1.moveTo((0.000000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:14:50 ReferenceNozzle DEBUG: N1.moveTo((0.010000, 0.000000, 0.000000, 0.000000 mm), 1.0)
+2018-05-09 17:14:50 GcodeDriver DEBUG: sendCommand(G1 X0.0100    F30000, 5000)...
+2018-05-09 17:14:50 GcodeDriver TRACE: [/dev/ttyACM1] >> G1 X0.0100    F30000
+2018-05-09 17:14:50 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:50 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1 X0.0100    F30000, 5000) => [ok]
+2018-05-09 17:14:50 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:14:50 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:14:51 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:51 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:14:53 ReferenceNozzle DEBUG: N1.moveTo((0.010000, 0.000000, -0.010000, 0.000000 mm), 1.0)
+2018-05-09 17:14:53 GcodeDriver DEBUG: sendCommand(G1   Z-0.0100  F30000, 5000)...
+2018-05-09 17:14:53 GcodeDriver TRACE: [/dev/ttyACM1] >> G1   Z-0.0100  F30000
+2018-05-09 17:14:53 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:53 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1   Z-0.0100  F30000, 5000) => [ok]
+2018-05-09 17:14:53 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:14:53 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:14:53 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:53 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:14:54 ReferenceNozzle DEBUG: N1.moveTo((0.010000, -0.010000, -0.010000, 0.000000 mm), 1.0)
+2018-05-09 17:14:54 GcodeDriver DEBUG: sendCommand(G1  Y-0.0100   F30000, 5000)...
+2018-05-09 17:14:54 GcodeDriver TRACE: [/dev/ttyACM1] >> G1  Y-0.0100   F30000
+2018-05-09 17:14:54 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:54 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1  Y-0.0100   F30000, 5000) => [ok]
+2018-05-09 17:14:54 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:14:54 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:14:54 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:54 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:14:55 ReferenceNozzle DEBUG: N1.moveTo((0.010000, -0.010000, -0.020000, 0.000000 mm), 1.0)
+2018-05-09 17:14:55 GcodeDriver DEBUG: sendCommand(G1   Z-0.0200  F30000, 5000)...
+2018-05-09 17:14:55 GcodeDriver TRACE: [/dev/ttyACM1] >> G1   Z-0.0200  F30000
+2018-05-09 17:14:55 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:55 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1   Z-0.0200  F30000, 5000) => [ok]
+2018-05-09 17:14:55 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:14:55 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:14:55 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:55 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:14:59 ReferenceNozzle DEBUG: N1.moveTo((0.010000, -0.010000, -0.020000, 0.010000 mm), 1.0)
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(T0S1, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> T0S1
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Active Extruder: 0
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 T0S1, 5000) => [echo:Active Extruder: 0, ok]
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(G92E0.0000, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> G92E0.0000
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92E0.0000, 5000) => [ok]
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(G1    E0.0100 F30000, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> G1    E0.0100 F30000
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1    E0.0100 F30000, 5000) => [ok]
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:14:59 ReferenceNozzle DEBUG: N1.moveTo((0.010000, -0.010000, -0.020000, 0.000000 mm), 1.0)
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(T0S1, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> T0S1
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Active Extruder: 0
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 T0S1, 5000) => [echo:Active Extruder: 0, ok]
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(G92E0.0100, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> G92E0.0100
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92E0.0100, 5000) => [ok]
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(G1    E0.0000 F30000, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> G1    E0.0000 F30000
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1    E0.0000 F30000, 5000) => [ok]
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:14:59 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:14:59 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:15:00 ReferenceNozzle DEBUG: N1.moveTo((0.010000, -0.010000, -0.020000, -0.010000 mm), 1.0)
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(T0S1, 5000)...
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] >> T0S1
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Active Extruder: 0
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 T0S1, 5000) => [echo:Active Extruder: 0, ok]
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(G92E0.0000, 5000)...
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] >> G92E0.0000
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92E0.0000, 5000) => [ok]
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(G1    E-0.0100 F30000, 5000)...
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] >> G1    E-0.0100 F30000
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G1    E-0.0100 F30000, 5000) => [ok]
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(M400, 5000)...
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] >> M400
+2018-05-09 17:15:00 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:00 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M400, 5000) => [ok]
+2018-05-09 17:15:02 ReferenceHead DEBUG: H1.home()
+2018-05-09 17:15:02 GcodeDriver DEBUG: sendCommand(G28, -1)...
+2018-05-09 17:15:02 GcodeDriver TRACE: [/dev/ttyACM1] >> G28
+2018-05-09 17:15:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:05 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G28, -1) => [ok]
+2018-05-09 17:15:05 GcodeDriver DEBUG: sendCommand(G0 X0 Y0 Z0, -1)...
+2018-05-09 17:15:05 GcodeDriver TRACE: [/dev/ttyACM1] >> G0 X0 Y0 Z0
+2018-05-09 17:15:05 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:05 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G0 X0 Y0 Z0, -1) => [ok]
+2018-05-09 17:15:05 GcodeDriver DEBUG: sendCommand(T0 S1, -1)...
+2018-05-09 17:15:05 GcodeDriver TRACE: [/dev/ttyACM1] >> T0 S1
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] << echo:Active Extruder: 0
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 T0 S1, -1) => [echo:Active Extruder: 0, ok]
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(G92 E0, -1)...
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 E0
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 E0, -1) => [ok]
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(T1 S1, -1)...
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] >> T1 S1
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] << echo:TInvalid extruder
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 T1 S1, -1) => [echo:TInvalid extruder, ok]
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(G92 E0, -1)...
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] >> G92 E0
+2018-05-09 17:15:06 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:06 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 G92 E0, -1) => [ok]
+2018-05-09 17:15:36 MainFrame INFO: Shutting down...
+2018-05-09 17:15:36 ReferenceMachine DEBUG: setEnabled(false)
+2018-05-09 17:15:36 GcodeDriver DEBUG: sendCommand(M84, 5000)...
+2018-05-09 17:15:36 GcodeDriver TRACE: [/dev/ttyACM1] >> M84
+2018-05-09 17:15:36 GcodeDriver TRACE: [/dev/ttyACM1] << ok
+2018-05-09 17:15:36 GcodeDriver DEBUG: sendCommand(/dev/ttyACM1 M84, 5000) => [ok]
+2018-05-09 17:15:37 MainFrame INFO: Shutdown complete, exiting.

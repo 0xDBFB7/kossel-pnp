@@ -352,7 +352,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = false; // set to true to invert the logic o
 // For deltabots this means top and center of the cartesian print volume.
 #define MANUAL_X_HOME_POS 0
 #define MANUAL_Y_HOME_POS 0
-#define MANUAL_Z_HOME_POS 267.6  // For delta: Distance between nozzle and print surface after homing.
+#define MANUAL_Z_HOME_POS 282.57  // For delta: Distance between nozzle and print surface after homing.
 
 #define AUTOLEVEL_GRID 24  // Distance between autolevel Z probing points, should be less than print surface radius/3.
 
@@ -420,7 +420,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = false; // set to true to invert the logic o
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   {100, 100, 100, 8208}
 #define DEFAULT_MAX_FEEDRATE          {200, 200, 200, 1}    // (mm/sec)
-#define DEFAULT_MAX_ACCELERATION      {3000,3000,3000,3000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
+#define DEFAULT_MAX_ACCELERATION      {3000,3000,3000,1000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
 
 #define DEFAULT_ACCELERATION          3000    // X, Y, Z and E max acceleration in mm/s^2 for printing moves
 #define DEFAULT_RETRACT_ACCELERATION  3000   // X, Y, Z and E max acceleration in mm/s^2 for retracts
