@@ -12,5 +12,14 @@ Background:
 ---
 
 
+
 Description:
 ---
+
+Setting up OpenPNP:
+
+Semicolons break this version of Marlin.
+
+Z at board level is 2.8.
+
+Head: 26.059 -43.504
